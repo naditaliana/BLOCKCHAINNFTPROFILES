@@ -1,4 +1,4 @@
-# BLOCKCHAIN NFT PROFILE
+# BLOCKCHAIN NFT PROFILES
 
 - add 0xnadita (1).jpg
 - add 0xnadita (2).jpg
