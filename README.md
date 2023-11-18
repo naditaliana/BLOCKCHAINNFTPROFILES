@@ -1,5 +1,5 @@
 # BLOCKCHAIN NFT PROFILE.............................................................
-- add 0xnadita (1).jpg.
+- add 0xnadita (1).jpg..
 - add 0xnadita (2).jpg
 - add 0xnadita (3).jpg
 - add 0xnadita (4).jpg
